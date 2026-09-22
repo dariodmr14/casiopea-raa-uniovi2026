@@ -16,12 +16,6 @@ Juego desarrollado en **Delightex (CoSpaces)**, programado íntegramente con **C
 
 **URL del proyecto:** https://edu.delightex.com/GKU-YBS
 
-**Código QR:**
-
-![QR del proyecto](qr.png)
-
-Para jugar en modo **Realidad Aumentada (RA)** o **Realidad Virtual (RV)**, abre la URL o escanea el QR desde la app móvil **Delightex** (disponible en iOS y Android) y selecciona el modo correspondiente desde el propio visor.
-
 ## 🌌 Estructura del juego
 
 | Escena | Tipo | Contenido |
@@ -43,14 +37,16 @@ Para jugar en modo **Realidad Aumentada (RA)** o **Realidad Virtual (RV)**, abre
 
 Gameplay completo + explicación del diseño y la programación:
 
-**(pendiente — se añade el enlace de YouTube aquí)**
+**URL del vídeo explicativo:** https://www.youtube.com/watch?v=gwDVbqsr7CE
 
 ## 📂 Contenido de este repositorio
 
-- `qr.png` — código QR del proyecto Delightex.
-- `capturas-diseño/` — capturas del diseño narrativo en papel (si aplica).
+- `El Rastro de Casiopea QR.png` — código QR del proyecto Delightex.
+- `DiseñoNarrativo.jpeg` — foto del diseño narrativo hecho en seminario.
 - Este `README.md`.
 
 ## 👤 Autor
 
-*(tu nombre)* — Grado en Ingeniería Informática del Software, Universidad de Oviedo.
+*Darío Morales Riega* — Grado en Ingeniería Informática del Software, Universidad de Oviedo.
+
+Este README ha sido generado con ayuda de IA.
