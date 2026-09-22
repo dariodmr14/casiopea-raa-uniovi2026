@@ -29,7 +29,7 @@ Juego desarrollado en **Delightex (CoSpaces)**, programado íntegramente con **C
 
 - Animaciones ambientales simultáneas mediante bloques de ejecución en paralelo.
 - Variable/contador compartido para la mecánica de recolección de fragmentos, con comprobación condicional que desencadena el diálogo final.
-- Diálogos programados entre personajes (Ori, Casiopea, NPCs de Marte) con paneles de interacción.
+- Diálogos programados entre personajes (Compañeros, Casiopea, NPCs de Marte) con paneles de interacción.
 - Escena cinemática final con múltiples cámaras y cambios de plano, sin intervención del jugador.
 - Sonidos y música ambiente diferenciados por escena.
 
